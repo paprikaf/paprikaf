@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paprikaf
 - 👀 I’m interested in everything related to music 
-- 🌱 I’m currently learning functional programming
+- 🌱 I’m currently typing...
 - 💞️ I’m looking to collaborate on a music app for vinyl djs
-- 📫 How to reach me on Twitter @felfelahmed2
+- 📫 How to reach me on Twitter @zpaprikaf
