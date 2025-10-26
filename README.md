@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @paprikaf
 - 🌱 I’m currently typing...
-- 📫 How to reach me on Twitter @zpaprikaf
+- 📫 How to reach me on [Twitter](https://x.com/zpaprikaf) or my [website](https://paprikaf.com/)
